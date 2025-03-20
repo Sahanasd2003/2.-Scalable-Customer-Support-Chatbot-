@@ -22,11 +22,17 @@ NLP Processing:
 NLTK: Used for tokenizing the input message.
 SpaCy: Used for named entity recognition (NER) and part-of-speech (POS) tagging.
 Transformers: The chatbot uses the Huggingface transformers library with the microsoft/DialoGPT-medium model to generate responses to user inputs.
+
 Examples
 Here are some example messages you can try with the chatbot:
 
 "Hello!"
+
 "What is your name?"
+
 "Can you tell me a joke?"
+
 "I like cats."
+
 "What's the meaning of life?"
+
