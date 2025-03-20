@@ -2,7 +2,7 @@ Scalable-Customer-Support-Chatbot
 
 This project is a simple chatbot web app built using Python, Flask, and various NLP libraries such as NLTK, SpaCy, and transformers. The chatbot uses the Huggingface transformers library with the microsoft/DialoGPT-medium model to generate responses to user inputs. It also uses NLTK and SpaCy for additional text processing.
 
-Demo
+
 
 Installation
 Install the required dependencies:
